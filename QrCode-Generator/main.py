@@ -1,4 +1,4 @@
-# This Project is made in virtual environment type souce .venv/bin/activate then type python main.py and Boom you can make your Qr-code
+# This Project is made in virtual environment type "souce .venv/bin/activate" then type "python main.py" and Boom you can make your Qr-code
 import qrcode
 
 data = input("Enter Website URL or Text: ").strip()
